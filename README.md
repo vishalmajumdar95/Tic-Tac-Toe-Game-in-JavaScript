@@ -18,7 +18,7 @@ I am going to build a one-player tic-tac-toe game, which we can play in the Term
 ## Screenshots
 ![2](https://user-images.githubusercontent.com/74820625/128242633-2b4712b4-429e-4fd6-b074-5e0f69f33176.png)
 
-![2](/home/vishal/Tic-Tac-Toe/Screenshot from 2021-10-04 13-48-57.png)
+![Alt text](/home/vishal/Tic-Tac-Toe/Screenshot from 2021-10-04 13-48-57.png?raw=true "Title")
 
 
 Just follow ☝️ me and give Star ⭐ my repository
